@@ -27,7 +27,7 @@ System Integration Bidding Simulation
 | Date | Milestone |
 |------|-----------|
 | Sep 7 (Mon) | Task drop-off, finalization of topic, task delegation |
-| Sep 8 (Tue) | Meeting at 11:30 AM, Student Area |
+| Sep 8 (Tue) | Deadline of all infos |
 | Sep 9 | Finalizing deliverables (PPT, Script, Flow, etc.) |
 | Sep 11 (Fri) | Presentation |
 
