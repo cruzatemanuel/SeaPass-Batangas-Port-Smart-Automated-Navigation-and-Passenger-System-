@@ -31,6 +31,17 @@ System Integration Bidding Simulation
 | Sep 9 | Finalizing deliverables (PPT, Script, Flow, etc.) |
 | Sep 11 (Fri) | Presentation |
 
+## Business Goals 
+Enable online booking and online payment - Allowing commuters to conveniently reserve and purchased a ticket in one transaction in advance.
+Reduce ticket queues and waiting time - The self-service booking and paying system minimize manual transactions and speed ticketing process.
+Provide timely travel updates - Provide commuters updates about ferry’s departure schedule, available trip,  and possible disruptions,  to help them make informed decisions about their trips. 
+
+
+## Problem Identification
+Limited booking and payment option - commuters have no another option to purchase a ferry/RORO ticket online in one transaction. A manual purchasing process require to proceed directly to the terminal and wait in several line to purchase and reserve a slot, making it challenging to acquire a ticket.
+Long Ticket Queue - The manual process of purchasing commuters tickets causes long queues, wasting too much time, especially during peak periods, resulting in delays.
+Lack of real-time information - Commuters have no access to timely information about the ferry’s departure schedule, available trip,  and possible disruptions, making it difficult to make informed decisions about their trips. 
+
 ---
 
 ## Notes
